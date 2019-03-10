@@ -1,0 +1,8 @@
+**/idea/
+**.xml
+**.jar
+**.iml
+**/target/
+**.exe
+**.DS_Store
+**._.DS_Store
